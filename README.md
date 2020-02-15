@@ -6,7 +6,7 @@ Native binary running as AWS Lambda custom runtime built by GraalVM
 Following tools should be installed.
 
 1. Docker
-2. aws-cli
+2. aws-cli(Configure your credentials/config from C:\Users\%USERPROFILE%\credentials and C:\Users\%USERPROFILE%\config)
 3. JDK8
 
 ## Usage
