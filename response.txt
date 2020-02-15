@@ -1,0 +1,1 @@
+{"errorType":"Runtime.ExitError","errorMessage":"RequestId: 2da1ae92-1670-49b8-b2ff-35715a8eb93a Error: &{0xc00005e2a0 map[invoke_id:2da1ae92-1670-49b8-b2ff-35715a8eb93a sandbox_id:0] 2020-02-14 13:39:16.950104591 +0000 UTC m=+0.002576793 panic <nil> Runtime failed to start: fork/exec /var/task/bootstrap: permission denied <nil> }"}

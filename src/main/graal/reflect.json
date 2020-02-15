@@ -1,0 +1,13 @@
+[ {
+  "name" : "com.scopic.aws.lambda.MyRequest",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "com.scopic.aws.lambda.MyResponse",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}, {
+  "name" : "com.scopic.aws.lambda.MyFunction",
+  "allPublicMethods" : true,
+  "allDeclaredConstructors" : true
+}]
